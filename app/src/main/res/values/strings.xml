@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Posts</string>
+    <string name="txt_title">Post Title</string>
+    <string name="txt_post_image_description">Post Image</string>
+    <string name="txt_post_details">Post Details</string>
+    <string name="btn_back">Back</string>
+</resources>
